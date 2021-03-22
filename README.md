@@ -9,7 +9,9 @@ Bios Settings: Set BIOS DEFAULTS and ensure that UEFI boot and AHCI are enabled.
 
 Specs:
 Intel Core i5 6500 (SKYLAKE)
+
 8GB DDR3L (this PC only takes DDR3L) 
+
 iGPU (Intel HD Graphics 530)
 
 Optional (for Wifi and Bluetooth
