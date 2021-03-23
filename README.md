@@ -12,6 +12,7 @@ BIOS Revision : 1.14.2
 OpenCore Version : 0.6.7
 
 Specs:
+
 Intel Core i5 6500 (SKYLAKE)
 
 8GB DDR3L (this PC only takes DDR3L) 
