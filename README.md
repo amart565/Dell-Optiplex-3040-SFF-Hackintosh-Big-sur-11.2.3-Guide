@@ -1,4 +1,4 @@
-# Dell-Optiplex-3040-SFF-Hackintosh-Big-sur-11.2.3-Guide
+# Dell-Optiplex-3040-SFF-Hackintosh-Big-Sur-11.2.3-Guide
 This is a list of files and settings to get your Dell Optiplex 3040 SFF setup and running with Big Sur!
 
 
