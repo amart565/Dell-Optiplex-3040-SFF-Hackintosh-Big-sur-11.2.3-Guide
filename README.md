@@ -32,6 +32,8 @@ This Wifi card works 100% with no additional kexts, but does not come with a hal
 Working:
 Everything but sleep (seems to be an iGPU problem)
 
+*I will update this guide after installing a Low Profile RX560, and will note whether sleep works after this point. 
+
 
 
 
