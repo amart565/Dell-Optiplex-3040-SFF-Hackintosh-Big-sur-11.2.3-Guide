@@ -8,6 +8,7 @@ This guide assumes that you are following the Dortania Guide (https://dortania.g
 Bios Settings: Set BIOS DEFAULTS and ensure that UEFI boot and AHCI are enabled.
 
 BIOS Revision : 1.14.2
+
 OpenCore Version : 0.6.7
 
 Specs:
@@ -21,7 +22,7 @@ iGPU (Intel HD Graphics 530)
 
 
 
-Optional (for Wifi and Bluetooth
+*Optional (for Wifi, Bluetooth and Continuity Features)
 YOUBO PC Hackintosh Dual Band WiFi Card BCM94360CD 
 https://www.amazon.com/gp/product/B082X8MBMD/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 
