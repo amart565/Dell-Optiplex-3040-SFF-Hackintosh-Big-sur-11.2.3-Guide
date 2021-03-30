@@ -32,9 +32,11 @@ https://www.amazon.com/gp/product/B082X8MBMD/ref=ppx_yo_dt_b_asin_title_o00_s00?
 This Wifi card works 100% with no additional kexts, but does not come with a half height bracket. I had to Cut the bracket on both ends for it to fit. The board also does not have a required USB header (the header on the board is a proprietary Dell connector) and had to solder the included 4 pin usb header into a regular USB cable and run it through the back.
 
 Working:
+
 Everything (with dGPU)
 
-Not Working 
+Not Working:
+
 Sleep (With iGPU)
 
 
