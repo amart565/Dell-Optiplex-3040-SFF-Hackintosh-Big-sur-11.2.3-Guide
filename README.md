@@ -19,6 +19,7 @@ Intel Core i5 6500 (SKYLAKE)
 8GB DDR3L (this PC only takes DDR3L) 
 
 iGPU (Intel HD Graphics 530)
+
 dGPU AMD RX 560 LP / Radeon Pro WX4100
 
 
